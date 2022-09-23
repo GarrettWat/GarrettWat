@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pennsylvania</h3>
 
 - 📫 How to reach me **garrettwate0818@gmail.com**
+- See My Projects and Resume at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
