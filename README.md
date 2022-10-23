@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Garrett
 #### I am Front-End Developer
 I am a software developer with a passion to solve problems and challenge myself
 
