@@ -5,7 +5,7 @@ I am a software developer with a passion to solve problems and challenge myself
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Projects 
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me: garrettwate0818@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love Football 
