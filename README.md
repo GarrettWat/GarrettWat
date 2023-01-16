@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is Garrett
-#### I am Front-End Developer
 I am a software developer with a passion to solve problems and challenge myself
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  MERN Stack | MongoDB | Express | React | Node JS
 
 - 🔭 I’m currently working on Projects 
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Jest JS
 - 📫 How to reach me: garrettwate0818@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love Football 
